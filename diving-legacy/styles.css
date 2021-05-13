@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    display: block;
+}
+video{
+     max-width: 100%;
+     height: auto;
+     object-fit: contain;
+     display: block;
+}
+p{
+    text-align: center;
+}
