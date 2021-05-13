@@ -1,2 +1,3 @@
 # showcase-calvin.github.io
-Reminiscing my vacation photos!
+Reminiscing my vacation photos...  
+Check out my other works here! [slickshots.lcalvin.com](https://slickshots.lcalvin.com)
