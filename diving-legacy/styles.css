@@ -45,11 +45,11 @@ a:link {
 .social-icon-bar a:hover {
     background-color: #000;
 }
-.github { /* Style the social media icons with color */
-    background: #211F1F;
-    color: white;
-}
 .slickshots {
     background: #c14f4d;
+    color: white;
+}
+.github { /* Style the social media icons with color */
+    background: #211F1F;
     color: white;
 }
