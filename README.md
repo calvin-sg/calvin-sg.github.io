@@ -1,5 +1,5 @@
 # showcase-calvin.github.io
-Link to site: [lcalvin.com/diving](https://lcalvin.com/diving)  
+## Link to site: [lcalvin.com/diving](https://lcalvin.com/diving)  
 Reminiscing my vacation photos... in a beautiful HTML/CSS landing page.  
 No Wordpress or Jekyll template required!
 
